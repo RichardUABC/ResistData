@@ -1,0 +1,17 @@
+## auto-generated configuration file - DO NOT EDIT ##
+
+/LIBS/GUID = "2c19e4fc-997e-4fee-8302-bd18c457091f"
+/config/default = "false"
+/libs/cloud/accept_aws_charges = "true"
+/libs/cloud/accept_gcp_charges = "true"
+/libs/cloud/report_instance_identity = "true"
+/repository/remote/disabled = "false"
+/repository/user/ad/public/apps/file/volumes/flatAd = "."
+/repository/user/ad/public/apps/refseq/volumes/refseqAd = "."
+/repository/user/ad/public/apps/sra/volumes/sraAd = "."
+/repository/user/ad/public/apps/sraPileup/volumes/ad = "."
+/repository/user/ad/public/apps/sraRealign/volumes/ad = "."
+/repository/user/ad/public/apps/wgs/volumes/wgsAd = "."
+/repository/user/ad/public/root = "."
+/repository/user/default-path = "/c/Users/ricar/ncbi"
+/tools/prefetch/download_to_cache = "false"
